@@ -9,8 +9,6 @@ This is a repository containing code for predicting the median house value in Ca
 - [Usage](#usage)
 - [Model Overview](#model-overview)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset Description
 
