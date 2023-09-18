@@ -1,8 +1,6 @@
 # California_Housing_Prices_Prediction
 Dataset :  https://www.kaggle.com/code/rewa77/california-housing-prices-prediction 
 
-# California Housing Prices Prediction
-
 This is a repository containing code for predicting the median house value in Californian districts using various machine learning models. The data used in this repository is the California Housing Prices dataset obtained from the StatLib repository.
 
 ## Table of Contents
